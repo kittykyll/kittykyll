@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 💙💙
 
-oii, meu nome é annie
+oii, meu nome é **annie**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
